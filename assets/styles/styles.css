@@ -1,0 +1,17 @@
+.navbar-brand-text small {
+    font-size: 12px;
+}
+
+.footerpage {
+    position: absolute;
+    width: 100%;
+    bottom: -180px;
+}
+
+.map {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    padding: 0 15%;
+}
